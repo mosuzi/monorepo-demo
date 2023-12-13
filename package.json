@@ -1,0 +1,29 @@
+{
+  "name": "@x-apaas/x-dcloud-composite",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cm": "git cz"
+  },
+  "keywords": [],
+  "author": "mosuzi",
+  "license": "ISC",
+  "devDependencies": {
+    "@changesets/cli": "2",
+    "@commitlint/cli": "17",
+    "@commitlint/config-conventional": "17",
+    "babel-eslint": "10",
+    "babel-plugin-component": "1",
+    "commitizen": "4",
+    "cz-customizable": "7",
+    "eslint": "6",
+    "eslint-plugin-prettier": "3",
+    "eslint-plugin-vue": "6",
+    "husky": "8",
+    "lint-staged": "13",
+    "prettier": "2"
+  }
+}
